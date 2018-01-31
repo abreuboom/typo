@@ -54,6 +54,14 @@ a {
   font-weight: 700;
 }
 
+.footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    display:block;
+}
+
+
 #line {
   width: 25vmax;
   height: 25vmax;
